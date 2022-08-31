@@ -1,0 +1,5 @@
+site_name: Read the Docs Sample
+site_author: Jongchan
+site_description: Read the Docs sample site
+theme:
+  name: flatly
